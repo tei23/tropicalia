@@ -186,6 +186,13 @@ h2 {
     color: var(--alto-contraste-link);
 }
 
+.alto-contraste .botão-inicio,
+.alto-contraste .formulario button,
+.alto-contraste .btn-primary{
+    background-color: var(--alto-contraste-link);
+    color: var(--alto-contraste-fundo);
+}
+
 .alto-contraste #tropicalia{
     background: none;
 }
